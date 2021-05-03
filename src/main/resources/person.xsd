@@ -1,0 +1,13 @@
+<schema xmlns="http://www.w3.org/2001/XMLSchema" targetNamespace="http://ivoronline.com">
+
+  <element name="person">
+    <complexType>
+      <sequence>
+        <element name="id"   type="int"   />
+        <element name="name" type="string"/>
+        <element name="age"  type="int"   />
+      </sequence>
+    </complexType>
+  </element>
+
+</schema>

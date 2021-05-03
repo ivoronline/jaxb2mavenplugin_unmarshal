@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:person xmlns:ns2="http://ivoronline.com">
+    <id>1</id>
+    <name>John</name>
+    <age>20</age>
+</ns2:person>
